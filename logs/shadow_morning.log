@@ -1,0 +1,351 @@
+
+→ Evaluating QQQM using yfinance...
+[QQQM] ✅ Retrieved 100 rows of data
+[QQQM] ↳ Would trade 10 shares (~$2000.00)
+[QQQM] 🔴 Shadow SELL @ $189.57 (yfinance)
+
+→ Evaluating VOO using yfinance...
+[VOO] ✅ Retrieved 100 rows of data
+[VOO] ↳ Would trade 4 shares (~$2000.00)
+[VOO] 🔴 Shadow SELL @ $497.40 (yfinance)
+
+→ Evaluating IAU using yfinance...
+[IAU] ✅ Retrieved 100 rows of data
+[IAU] ↳ Would trade 33 shares (~$2000.00)
+[IAU] ⏸ HOLD — no signal (yfinance)
+
+→ Evaluating IEFA using yfinance...
+[IEFA] ✅ Retrieved 100 rows of data
+[IEFA] ↳ Would trade 26 shares (~$2000.00)
+[IEFA] 🔴 Shadow SELL @ $74.38 (yfinance)
+
+→ Evaluating MCHI using yfinance...
+[MCHI] ✅ Retrieved 100 rows of data
+[MCHI] ↳ Would trade 39 shares (~$2000.00)
+[MCHI] 🔴 Shadow SELL @ $50.85 (yfinance)
+
+→ Evaluating QQQM using yfinance...
+[QQQM] ✅ Retrieved 100 rows of data
+[QQQM] ↳ Would trade 10 shares (~$2000.00)
+[QQQM] 🔴 Shadow SELL @ $188.42 (yfinance)
+
+→ Evaluating VOO using yfinance...
+[VOO] ✅ Retrieved 100 rows of data
+[VOO] ↳ Would trade 4 shares (~$2000.00)
+[VOO] 🔴 Shadow SELL @ $495.49 (yfinance)
+
+→ Evaluating IAU using yfinance...
+[IAU] ✅ Retrieved 100 rows of data
+[IAU] ↳ Would trade 33 shares (~$2000.00)
+[IAU] 🟢 Shadow BUY @ $60.60 (yfinance)
+
+→ Evaluating IEFA using yfinance...
+[IEFA] ✅ Retrieved 100 rows of data
+[IEFA] ↳ Would trade 26 shares (~$2000.00)
+[IEFA] 🔴 Shadow SELL @ $74.20 (yfinance)
+
+→ Evaluating MCHI using yfinance...
+[MCHI] ✅ Retrieved 100 rows of data
+[MCHI] ↳ Would trade 39 shares (~$2000.00)
+[MCHI] 🔴 Shadow SELL @ $50.56 (yfinance)
+💰 Account value loaded: $4,000.92
+
+→ Evaluating QQQM using yfinance...
+[QQQM] ✅ Retrieved 100 rows of data
+[QQQM] ↳ Would trade 4 shares (~$800.18)
+[QQQM] ⚪ Ignoring SELL — not held (yfinance)
+
+→ Evaluating VOO using yfinance...
+[VOO] ✅ Retrieved 100 rows of data
+[VOO] ↳ Would trade 1 shares (~$800.18)
+[VOO] ⚪ Ignoring SELL — not held (yfinance)
+
+→ Evaluating IAU using yfinance...
+[IAU] ✅ Retrieved 100 rows of data
+[IAU] ↳ Would trade 13 shares (~$800.18)
+[IAU] 🟢 Shadow BUY @ $60.59 (yfinance)
+
+→ Evaluating IEFA using yfinance...
+[IEFA] ✅ Retrieved 100 rows of data
+[IEFA] ↳ Would trade 10 shares (~$800.18)
+[IEFA] ⚪ Ignoring SELL — not held (yfinance)
+
+→ Evaluating MCHI using yfinance...
+[MCHI] ✅ Retrieved 100 rows of data
+[MCHI] ↳ Would trade 15 shares (~$800.18)
+[MCHI] ⚪ Ignoring SELL — not held (yfinance)
+
+→ Evaluating BOTZ using yfinance...
+[BOTZ] ✅ Retrieved 100 rows of data
+[BOTZ] ↳ Would trade 29 shares (~$800.18)
+[BOTZ] ⚪ Ignoring SELL — not held (yfinance)
+
+→ Evaluating ROBO using yfinance...
+[ROBO] ✅ Retrieved 100 rows of data
+[ROBO] ↳ Would trade 16 shares (~$800.18)
+[ROBO] ⚪ Ignoring SELL — not held (yfinance)
+========== End of trading recs ==========
+💰 Account value loaded: $4,026.31
+
+→ Evaluating QQQM using yfinance...
+[QQQM] ✅ Retrieved 100 rows of data
+[QQQM] ↳ Would trade 4 shares (~$805.26)
+[QQQM] ⚪ Ignoring SELL — not held (yfinance)
+
+→ Evaluating VOO using yfinance...
+[VOO] ✅ Retrieved 100 rows of data
+[VOO] ↳ Would trade 1 shares (~$805.26)
+[VOO] ⚪ Ignoring SELL — not held (yfinance)
+
+→ Evaluating IAU using yfinance...
+[IAU] ✅ Retrieved 100 rows of data
+[IAU] ↳ Would trade 12 shares (~$805.26)
+[IAU] ⏸ HOLD — no signal (yfinance)
+
+→ Evaluating IEFA using yfinance...
+[IEFA] ✅ Retrieved 100 rows of data
+[IEFA] ↳ Would trade 10 shares (~$805.26)
+[IEFA] ⚪ Ignoring SELL — not held (yfinance)
+
+→ Evaluating MCHI using yfinance...
+[MCHI] ✅ Retrieved 100 rows of data
+[MCHI] ↳ Would trade 16 shares (~$805.26)
+[MCHI] ⚪ Ignoring SELL — not held (yfinance)
+
+→ Evaluating BOTZ using yfinance...
+[BOTZ] ✅ Retrieved 100 rows of data
+[BOTZ] ↳ Would trade 30 shares (~$805.26)
+[BOTZ] ⚪ Ignoring SELL — not held (yfinance)
+
+→ Evaluating ROBO using yfinance...
+[ROBO] ✅ Retrieved 100 rows of data
+[ROBO] ↳ Would trade 16 shares (~$805.26)
+[ROBO] ⚪ Ignoring SELL — not held (yfinance)
+========== End of trading recs ==========
+💰 Account value loaded: $4,024.32
+
+→ Evaluating QQQM using yfinance...
+[QQQM] ✅ Retrieved 100 rows of data
+[QQQM] ↳ Would trade 4 shares (~$804.86)
+[QQQM] ⚪ Ignoring SELL — not held (yfinance)
+
+→ Evaluating VOO using yfinance...
+[VOO] ✅ Retrieved 100 rows of data
+[VOO] ↳ Would trade 1 shares (~$804.86)
+[VOO] ⚪ Ignoring SELL — not held (yfinance)
+
+→ Evaluating IAU using yfinance...
+[IAU] ✅ Retrieved 100 rows of data
+[IAU] ↳ Would trade 12 shares (~$804.86)
+[IAU] ⏸ HOLD — no signal (yfinance)
+
+→ Evaluating IEFA using yfinance...
+[IEFA] ✅ Retrieved 100 rows of data
+[IEFA] ↳ Would trade 10 shares (~$804.86)
+[IEFA] ⚪ Ignoring SELL — not held (yfinance)
+
+→ Evaluating MCHI using yfinance...
+[MCHI] ✅ Retrieved 100 rows of data
+[MCHI] ↳ Would trade 16 shares (~$804.86)
+[MCHI] ⚪ Ignoring SELL — not held (yfinance)
+
+→ Evaluating BOTZ using yfinance...
+[BOTZ] ✅ Retrieved 100 rows of data
+[BOTZ] ↳ Would trade 30 shares (~$804.86)
+[BOTZ] ⚪ Ignoring SELL — not held (yfinance)
+
+→ Evaluating ROBO using yfinance...
+[ROBO] ✅ Retrieved 100 rows of data
+[ROBO] ↳ Would trade 16 shares (~$804.86)
+[ROBO] ⚪ Ignoring SELL — not held (yfinance)
+==========End of Recs for 04/19/2025==========
+💰 Account value loaded: $4,024.32
+
+→ Evaluating QQQM using yfinance...
+[QQQM] ✅ Retrieved 100 rows of data
+[QQQM] ↳ Would trade 4 shares (~$804.86)
+[QQQM] ⚪ Ignoring SELL — not held (yfinance)
+
+→ Evaluating VOO using yfinance...
+[VOO] ✅ Retrieved 100 rows of data
+[VOO] ↳ Would trade 1 shares (~$804.86)
+[VOO] ⚪ Ignoring SELL — not held (yfinance)
+
+→ Evaluating IAU using yfinance...
+[IAU] ✅ Retrieved 100 rows of data
+[IAU] ↳ Would trade 12 shares (~$804.86)
+[IAU] ⏸ HOLD — no signal (yfinance)
+
+→ Evaluating IEFA using yfinance...
+[IEFA] ✅ Retrieved 100 rows of data
+[IEFA] ↳ Would trade 10 shares (~$804.86)
+[IEFA] ⚪ Ignoring SELL — not held (yfinance)
+
+→ Evaluating MCHI using yfinance...
+[MCHI] ✅ Retrieved 100 rows of data
+[MCHI] ↳ Would trade 16 shares (~$804.86)
+[MCHI] ⚪ Ignoring SELL — not held (yfinance)
+
+→ Evaluating BOTZ using yfinance...
+[BOTZ] ✅ Retrieved 100 rows of data
+[BOTZ] ↳ Would trade 30 shares (~$804.86)
+[BOTZ] ⚪ Ignoring SELL — not held (yfinance)
+
+→ Evaluating ROBO using yfinance...
+[ROBO] ✅ Retrieved 100 rows of data
+[ROBO] ↳ Would trade 16 shares (~$804.86)
+[ROBO] ⚪ Ignoring SELL — not held (yfinance)
+==========End of Recs for 04/20/2025==========
+💰 Account value loaded: $4,024.32
+
+→ Evaluating QQQM using yfinance...
+[QQQM] ✅ Retrieved 100 rows of data
+[QQQM] ↳ Would trade 4 shares (~$804.86)
+[QQQM] ⚪ Ignoring SELL — not held (yfinance)
+
+→ Evaluating VOO using yfinance...
+[VOO] ✅ Retrieved 100 rows of data
+[VOO] ↳ Would trade 1 shares (~$804.86)
+[VOO] ⚪ Ignoring SELL — not held (yfinance)
+
+→ Evaluating IAU using yfinance...
+[IAU] ✅ Retrieved 100 rows of data
+[IAU] ↳ Would trade 12 shares (~$804.86)
+[IAU] ⏸ HOLD — no signal (yfinance)
+
+→ Evaluating IEFA using yfinance...
+[IEFA] ✅ Retrieved 100 rows of data
+[IEFA] ↳ Would trade 10 shares (~$804.86)
+[IEFA] ⚪ Ignoring SELL — not held (yfinance)
+
+→ Evaluating MCHI using yfinance...
+[MCHI] ✅ Retrieved 100 rows of data
+[MCHI] ↳ Would trade 16 shares (~$804.86)
+[MCHI] ⚪ Ignoring SELL — not held (yfinance)
+
+→ Evaluating BOTZ using yfinance...
+[BOTZ] ✅ Retrieved 100 rows of data
+[BOTZ] ↳ Would trade 30 shares (~$804.86)
+[BOTZ] ⚪ Ignoring SELL — not held (yfinance)
+
+→ Evaluating ROBO using yfinance...
+[ROBO] ✅ Retrieved 100 rows of data
+[ROBO] ↳ Would trade 16 shares (~$804.86)
+[ROBO] ⚪ Ignoring SELL — not held (yfinance)
+==========End of Recs for 04/21/2025==========
+💰 Account value loaded: $4,035.12
+
+→ Evaluating QQQM using yfinance...
+[QQQM] ✅ Retrieved 100 rows of data
+[QQQM] ↳ Would trade 4 shares (~$807.02)
+[QQQM] ⚪ Ignoring SELL — not held (yfinance)
+
+→ Evaluating VOO using yfinance...
+[VOO] ✅ Retrieved 100 rows of data
+[VOO] ↳ Would trade 1 shares (~$807.02)
+[VOO] ⚪ Ignoring SELL — not held (yfinance)
+
+→ Evaluating IAU using yfinance...
+[IAU] ✅ Retrieved 100 rows of data
+[IAU] ↳ Would trade 12 shares (~$807.02)
+[IAU] 🟢 Shadow BUY @ $63.65 (yfinance)
+
+→ Evaluating IEFA using yfinance...
+[IEFA] ✅ Retrieved 100 rows of data
+[IEFA] ↳ Would trade 10 shares (~$807.02)
+[IEFA] ⚪ Ignoring SELL — not held (yfinance)
+
+→ Evaluating MCHI using yfinance...
+[MCHI] ✅ Retrieved 100 rows of data
+[MCHI] ↳ Would trade 15 shares (~$807.02)
+[MCHI] ⚪ Ignoring SELL — not held (yfinance)
+
+→ Evaluating BOTZ using yfinance...
+[BOTZ] ✅ Retrieved 100 rows of data
+[BOTZ] ↳ Would trade 30 shares (~$807.02)
+[BOTZ] ⚪ Ignoring SELL — not held (yfinance)
+
+→ Evaluating ROBO using yfinance...
+[ROBO] ✅ Retrieved 100 rows of data
+[ROBO] ↳ Would trade 16 shares (~$807.02)
+[ROBO] ⚪ Ignoring SELL — not held (yfinance)
+
+→ Evaluating FCG using yfinance...
+[FCG] ✅ Retrieved 100 rows of data
+[FCG] ↳ Would trade 38 shares (~$807.02)
+[FCG] ⚪ Ignoring SELL — not held (yfinance)
+
+→ Evaluating XOP using yfinance...
+[XOP] ✅ Retrieved 100 rows of data
+[XOP] ↳ Would trade 7 shares (~$807.02)
+[XOP] ⚪ Ignoring SELL — not held (yfinance)
+
+→ Evaluating VGK using yfinance...
+[VGK] ✅ Retrieved 100 rows of data
+[VGK] ↳ Would trade 11 shares (~$807.02)
+[VGK] ⚪ Ignoring SELL — not held (yfinance)
+
+→ Evaluating EWJ using yfinance...
+[EWJ] ✅ Retrieved 100 rows of data
+[EWJ] ↳ Would trade 11 shares (~$807.02)
+[EWJ] ⚪ Ignoring SELL — not held (yfinance)
+==========End of Recs for 04/23/2025==========
+
+💰 Account value loaded: $4,006.04
+
+→ Evaluating QQQM using yfinance...
+[QQQM] ✅ Retrieved 100 rows of data
+[QQQM] ↳ Would trade 4 shares (~$801.21)
+[QQQM] ⚪ Ignoring SELL — not held (yfinance)
+
+→ Evaluating VOO using yfinance...
+[VOO] ✅ Retrieved 100 rows of data
+[VOO] ↳ Would trade 1 shares (~$801.21)
+[VOO] ⚪ Ignoring SELL — not held (yfinance)
+
+→ Evaluating IAU using yfinance...
+[IAU] ✅ Retrieved 100 rows of data
+[IAU] ↳ Would trade 12 shares (~$801.21)
+[IAU] 🟢 Shadow BUY @ $62.12 (yfinance)
+
+→ Evaluating IEFA using yfinance...
+[IEFA] ✅ Retrieved 100 rows of data
+[IEFA] ↳ Would trade 10 shares (~$801.21)
+[IEFA] ⚪ Ignoring SELL — not held (yfinance)
+
+→ Evaluating MCHI using yfinance...
+[MCHI] ✅ Retrieved 100 rows of data
+[MCHI] ↳ Would trade 15 shares (~$801.21)
+[MCHI] ⚪ Ignoring SELL — not held (yfinance)
+
+→ Evaluating BOTZ using yfinance...
+[BOTZ] ✅ Retrieved 100 rows of data
+[BOTZ] ↳ Would trade 29 shares (~$801.21)
+[BOTZ] ⚪ Ignoring SELL — not held (yfinance)
+
+→ Evaluating ROBO using yfinance...
+[ROBO] ✅ Retrieved 100 rows of data
+[ROBO] ↳ Would trade 16 shares (~$801.21)
+[ROBO] ⚪ Ignoring SELL — not held (yfinance)
+
+→ Evaluating FCG using yfinance...
+[FCG] ✅ Retrieved 100 rows of data
+[FCG] ↳ Would trade 37 shares (~$801.21)
+[FCG] ⚪ Ignoring SELL — not held (yfinance)
+
+→ Evaluating XOP using yfinance...
+[XOP] ✅ Retrieved 100 rows of data
+[XOP] ↳ Would trade 7 shares (~$801.21)
+[XOP] ⚪ Ignoring SELL — not held (yfinance)
+
+→ Evaluating VGK using yfinance...
+[VGK] ✅ Retrieved 100 rows of data
+[VGK] ↳ Would trade 11 shares (~$801.21)
+[VGK] ⚪ Ignoring SELL — not held (yfinance)
+
+→ Evaluating EWJ using yfinance...
+[EWJ] ✅ Retrieved 100 rows of data
+[EWJ] ↳ Would trade 11 shares (~$801.21)
+[EWJ] ⚪ Ignoring SELL — not held (yfinance)
+==========End of Recs for 04/24/2025==========
+

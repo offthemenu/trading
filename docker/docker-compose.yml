@@ -1,0 +1,13 @@
+services:
+  ib_gateway:
+    image: ghcr.io/ib-insync/ib-gateway:latest
+    container_name: ib-gateway
+    ports:
+      - "4002:4002"
+      - "5900:5900"
+    env_file:
+      - .env
+    environment:
+      TRADING_MODE: paper
+      READ_ONLY_API: "true"
+    restart: unless-stopped

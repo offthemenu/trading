@@ -1,0 +1,5 @@
+date,ticker,action,price,shares,reason
+2025-04-14 16:22:01,QQQM,SELL,187.02000427246094,5.0,Sell Signal Triggered
+2025-04-14 16:22:01,VOO,SELL,490.54998779296875,4.0,Sell Signal Triggered
+2025-04-14 16:22:03,IEFA,SELL,73.37000274658203,6.0,Sell Signal Triggered
+2025-04-14 16:22:03,MCHI,SELL,49.68000030517578,8.0,Sell Signal Triggered

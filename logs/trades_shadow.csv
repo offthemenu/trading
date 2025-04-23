@@ -1,0 +1,26 @@
+timestamp,ticker,trade,price,source
+2025-04-15 00:10:17,QQQM,SELL,189.57,Signal from yfinance
+2025-04-15 00:10:17,VOO,SELL,497.4,Signal from yfinance
+2025-04-15 00:10:17,IEFA,SELL,74.38,Signal from yfinance
+2025-04-15 00:10:18,MCHI,SELL,50.85,Signal from yfinance
+2025-04-15 05:00:09,QQQM,SELL,188.42,Signal from yfinance
+2025-04-15 05:00:09,VOO,SELL,495.49,Signal from yfinance
+2025-04-15 05:00:09,IAU,BUY,60.6,Signal from yfinance
+2025-04-15 05:00:09,IEFA,SELL,74.2,Signal from yfinance
+2025-04-15 05:00:10,MCHI,SELL,50.56,Signal from yfinance
+
+
+,
+,
+,
+,
+
+2025-04-15 22:12:36,IAU,BUY,60.59,Signal from yfinance
+2025-04-15 22:17:41,IAU,BUY,60.59,Signal from yfinance
+2025-04-15 22:18:29,IAU,BUY,60.59,Signal from yfinance
+2025-04-15 22:20:09,IAU,BUY,60.59,Signal from yfinance
+2025-04-15 22:22:31,IAU,BUY,60.59,Signal from yfinance
+2025-04-23 05:00:09,IAU,BUY,63.65,Signal from yfinance
+2025-04-23 19:58:34,IAU,BUY,63.66,Signal from yfinance
+2025-04-23 22:20:10,IAU,BUY,63.66,Signal from yfinance
+2025-04-24 05:00:09,IAU,BUY,62.12,Signal from yfinance
