@@ -267,3 +267,35 @@ Error 1100, reqId -1: Connectivity between IBKR and Trader Workstation has been 
   volume_sma = float(latest['Volume_SMA'])
 /Users/ianchang/Desktop/local-projects/quant-trading/strategies/defensive_strategy.py:53: FutureWarning: Calling float on a single element Series is deprecated and will raise a TypeError in the future. Use float(ser.iloc[0]) instead
   rsi = float(latest['RSI'])
+open orders request timed out
+completed orders request timed out
+Traceback (most recent call last):
+  File "/Users/ianchang/.pyenv/versions/3.12.0/lib/python3.12/asyncio/tasks.py", line 510, in wait_for
+    return await fut
+           ^^^^^^^^^
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/ianchang/Desktop/local-projects/quant-trading/run_live_shadow_ibkr.py", line 19, in <module>
+    ib.connect('127.0.0.1', 7497, clientId=102)
+  File "/Users/ianchang/Desktop/local-projects/quant-trading/.venv/lib/python3.12/site-packages/ib_insync/ib.py", line 279, in connect
+    return self._run(self.connectAsync(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/ianchang/Desktop/local-projects/quant-trading/.venv/lib/python3.12/site-packages/ib_insync/ib.py", line 318, in _run
+    return util.run(*awaitables, timeout=self.RequestTimeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/ianchang/Desktop/local-projects/quant-trading/.venv/lib/python3.12/site-packages/ib_insync/util.py", line 341, in run
+    result = loop.run_until_complete(task)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/ianchang/.pyenv/versions/3.12.0/lib/python3.12/asyncio/base_events.py", line 664, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "/Users/ianchang/Desktop/local-projects/quant-trading/.venv/lib/python3.12/site-packages/ib_insync/ib.py", line 1782, in connectAsync
+    await asyncio.wait_for(self.reqExecutionsAsync(), timeout)
+  File "/Users/ianchang/.pyenv/versions/3.12.0/lib/python3.12/asyncio/tasks.py", line 509, in wait_for
+    async with timeouts.timeout(timeout):
+  File "/Users/ianchang/.pyenv/versions/3.12.0/lib/python3.12/asyncio/timeouts.py", line 111, in __aexit__
+    raise TimeoutError from exc_val
+TimeoutError

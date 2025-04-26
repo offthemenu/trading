@@ -349,3 +349,60 @@
 [EWJ] ⚪ Ignoring SELL — not held (yfinance)
 ==========End of Recs for 04/24/2025==========
 
+💰 Account value loaded: $4,034.49
+
+→ Evaluating QQQM using IBKR snapshot data...
+[QQQM] ✅ Retrieved 100 rows of data from IBKR
+[QQQM] ↳ Would trade 4 shares at $192.48
+[QQQM] ⚪ Ignoring SELL — not held (IBKR)
+
+→ Evaluating VOO using IBKR snapshot data...
+[VOO] ✅ Retrieved 100 rows of data from IBKR
+[VOO] ↳ Would trade 1 shares at $502.66
+[VOO] ⚪ Ignoring SELL — not held (IBKR)
+
+→ Evaluating IAU using IBKR snapshot data...
+[IAU] ✅ Retrieved 100 rows of data from IBKR
+[IAU] ⚠️ Skipping BUY — position too large ($2267.82 = 56.2% of account)
+
+→ Evaluating IEFA using IBKR snapshot data...
+[IEFA] ✅ Retrieved 100 rows of data from IBKR
+[IEFA] ↳ Would trade 10 shares at $77.77
+[IEFA] ⚪ Ignoring SELL — not held (IBKR)
+
+→ Evaluating MCHI using IBKR snapshot data...
+[MCHI] ✅ Retrieved 100 rows of data from IBKR
+[MCHI] ↳ Would trade 15 shares at $52.10
+[MCHI] ⚪ Ignoring SELL — not held (IBKR)
+
+→ Evaluating BOTZ using IBKR snapshot data...
+[BOTZ] ✅ Retrieved 100 rows of data from IBKR
+[BOTZ] ↳ Would trade 28 shares at $28.12
+[BOTZ] ⚪ Ignoring SELL — not held (IBKR)
+
+→ Evaluating ROBO using IBKR snapshot data...
+[ROBO] ✅ Retrieved 100 rows of data from IBKR
+[ROBO] ↳ Would trade 16 shares at $49.19
+[ROBO] ⚪ Ignoring SELL — not held (IBKR)
+
+→ Evaluating FCG using IBKR snapshot data...
+[FCG] ✅ Retrieved 100 rows of data from IBKR
+[FCG] ↳ Would trade 38 shares at $21.06
+[FCG] ⚪ Ignoring SELL — not held (IBKR)
+
+→ Evaluating XOP using IBKR snapshot data...
+[XOP] ✅ Retrieved 100 rows of data from IBKR
+[XOP] ↳ Would trade 7 shares at $113.06
+[XOP] ⚪ Ignoring SELL — not held (IBKR)
+
+→ Evaluating VGK using IBKR snapshot data...
+[VGK] ✅ Retrieved 100 rows of data from IBKR
+[VGK] ↳ Would trade 11 shares at $72.19
+[VGK] ⏸ HOLD — no signal (IBKR)
+
+→ Evaluating EWJ using IBKR snapshot data...
+[EWJ] ✅ Retrieved 100 rows of data from IBKR
+[EWJ] ↳ Would trade 11 shares at $70.13
+[EWJ] ⚪ Ignoring SELL — not held (IBKR)
+========== End of Recs for 04/25/2025 ==========
+

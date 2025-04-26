@@ -16,7 +16,7 @@ LOGS_DIR.mkdir(exist_ok=True)
 
 # === IBKR Setup ===
 ib = IB()
-ib.connect('127.0.0.1', 7497, clientId=102)
+ib.connect('127.0.0.1', 7497, clientId=102, timeout=10)
 ib.sleep(1)
 account_id = ib.managedAccounts()[0]
 
