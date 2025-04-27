@@ -17,7 +17,7 @@ today = datetime.today().strftime("%m/%d/%Y")
 # === File + Log Paths ===
 ROOT_DIR = Path.cwd()
 LOGS_DIR = ROOT_DIR / "logs"
-TRADES_PATH = LOGS_DIR / "trades_live_ibkr_PROD.csv"
+TRADES_PATH = LOGS_DIR / "trades_live_PROD_ibkr.csv"
 LOGS_DIR.mkdir(exist_ok=True)
 
 # === IBKR Setup ===
