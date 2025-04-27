@@ -10,7 +10,7 @@ from pathlib import Path
 today = datetime.today().strftime("%m/%d/%Y")
 
 # Define root directory explicitly
-ROOT_DIR = Path(__file__).resolve().parent
+ROOT_DIR = Path.cwd()
 LOGS_DIR = ROOT_DIR / "logs"
 TRADES_PATH = LOGS_DIR / "trades_shadow.csv"
 
