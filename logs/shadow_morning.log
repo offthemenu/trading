@@ -406,3 +406,60 @@
 [EWJ] ⚪ Ignoring SELL — not held (IBKR)
 ========== End of Recs for 04/25/2025 ==========
 
+💰 Account value loaded: $4,703.98
+
+→ Evaluating QQQM using yfinance...
+[QQQM] ✅ Retrieved 100 rows of data
+[QQQM] ↳ Would trade 4 shares (~$940.80)
+[QQQM] ⚪ Ignoring SELL — not held (yfinance)
+
+→ Evaluating VOO using yfinance...
+[VOO] ✅ Retrieved 100 rows of data
+[VOO] ↳ Would trade 1 shares (~$940.80)
+[VOO] ⚪ Ignoring SELL — not held (yfinance)
+
+→ Evaluating IAU using yfinance...
+[IAU] ✅ Retrieved 100 rows of data
+[IAU] ⚠️ Skipping BUY — position too large ($2244.24 = 47.7% of account)
+
+→ Evaluating IEFA using yfinance...
+[IEFA] ✅ Retrieved 100 rows of data
+[IEFA] ↳ Would trade 12 shares (~$940.80)
+[IEFA] ⚪ Ignoring SELL — not held (yfinance)
+
+→ Evaluating MCHI using yfinance...
+[MCHI] ✅ Retrieved 100 rows of data
+[MCHI] ↳ Would trade 18 shares (~$940.80)
+[MCHI] ⚪ Ignoring SELL — not held (yfinance)
+
+→ Evaluating BOTZ using yfinance...
+[BOTZ] ✅ Retrieved 100 rows of data
+[BOTZ] ↳ Would trade 32 shares (~$940.80)
+[BOTZ] ⚪ Ignoring SELL — not held (yfinance)
+
+→ Evaluating ROBO using yfinance...
+[ROBO] ✅ Retrieved 100 rows of data
+[ROBO] ↳ Would trade 18 shares (~$940.80)
+[ROBO] ⚪ Ignoring SELL — not held (yfinance)
+
+→ Evaluating FCG using yfinance...
+[FCG] ✅ Retrieved 100 rows of data
+[FCG] ↳ Would trade 43 shares (~$940.80)
+[FCG] ⚪ Ignoring SELL — not held (yfinance)
+
+→ Evaluating XOP using yfinance...
+[XOP] ✅ Retrieved 100 rows of data
+[XOP] ↳ Would trade 8 shares (~$940.80)
+[XOP] ⚪ Ignoring SELL — not held (yfinance)
+
+→ Evaluating VGK using yfinance...
+[VGK] ✅ Retrieved 100 rows of data
+[VGK] ↳ Would trade 13 shares (~$940.80)
+[VGK] ⏸ HOLD — no signal (yfinance)
+
+→ Evaluating EWJ using yfinance...
+[EWJ] ✅ Retrieved 100 rows of data
+[EWJ] ↳ Would trade 13 shares (~$940.80)
+[EWJ] ⏸ HOLD — no signal (yfinance)
+==========End of Recs for 04/26/2025==========
+
