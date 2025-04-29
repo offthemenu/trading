@@ -6,7 +6,7 @@ import csv
 import os
 from pathlib import Path
 
-today = datetime.today().strftime("%m/%d/%Y")
+today = datetime.today().strftime("%m/%d/%Y %H:%M:%S")
 
 # === File + Log Paths ===
 ROOT_DIR = Path.cwd()
@@ -55,7 +55,7 @@ capital = cash_available
 print(f"💰 Account value loaded: ${capital:,.2f}")
 
 # === Ticker Set ===
-WATCHLIST = ['QQQM', 'VOO', 'IAU', 'IEFA', 'MCHI', 'BOTZ', 'ROBO', 'FCG', 'XOP', 'VGK', 'EWJ']
+WATCHLIST = ['QQQM', 'VOO', 'IAU', 'IEFA', 'VWO', 'BOTZ', 'ROBO', 'XLE', 'VGK', 'EWJ', 'IJH', 'XLV', 'XLU']
 
 # === Main Loop: IBKR market data (not yfinance) ===
 for symbol in WATCHLIST:

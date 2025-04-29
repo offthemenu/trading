@@ -8,14 +8,14 @@ from pathlib import Path
 import time
 
 # === Settings ===
-WATCHLIST = ['QQQM', 'VOO', 'IAU', 'IEFA', 'MCHI', 'BOTZ', 'ROBO', 'FCG', 'XOP', 'VGK', 'EWJ']
+WATCHLIST = ['QQQM', 'VOO', 'IAU', 'IEFA', 'VWO', 'BOTZ', 'ROBO', 'XLE', 'VGK', 'EWJ', 'IJH', 'XLV', 'XLU']
 POSITION_PCT = 0.2
 MAX_POSITION_PCT = 0.4
 LIVE_MODE = True   # Toggle live trading on/off
-today = datetime.today().strftime("%m/%d/%Y")
+today = datetime.today().strftime("%m/%d/%Y %H:%M:%S")
 
 # === File + Log Paths ===
-ROOT_DIR = Path.cwd()
+ROOT_DIR = Path("/Users/ianchang/Desktop/local-projects/quant-trading")
 LOGS_DIR = ROOT_DIR / "logs"
 TRADES_PATH = LOGS_DIR / "trades_live_PROD_ibkr.csv"
 LOGS_DIR.mkdir(exist_ok=True)
@@ -153,5 +153,5 @@ for symbol in WATCHLIST:
         print(f"[{symbol}] ⏸ HOLD — no action.")
 
 # === End of Run ===
-print(f"{'='*10} End of Execution {today} {'='*10}")
+print(f"{'='*10} End of Execution {today} {'='*10}\n")
 ib.disconnect()  # 🆕 NEW: Always disconnect at the end

@@ -18,7 +18,7 @@ TRADES_PATH = LOGS_DIR / "trades_shadow.csv"
 LOGS_DIR.mkdir(exist_ok=True)
 
 # === Constants ===
-WATCHLIST = ['QQQM', 'VOO', 'IAU', 'IEFA', 'MCHI', 'BOTZ', 'ROBO', 'FCG', 'XOP', 'VGK', 'EWJ']
+WATCHLIST = ['QQQM', 'VOO', 'IAU', 'IEFA', 'VWO', 'BOTZ', 'ROBO', 'XLE', 'VGK', 'EWJ', 'IJH', 'XLV', 'XLU']
 # TRADES_PATH = 'logs/trades_shadow.csv'
 
 # === Connect to IBKR (to read positions only) ===
