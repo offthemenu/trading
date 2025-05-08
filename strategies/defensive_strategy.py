@@ -24,7 +24,7 @@ def generate_signals(ticker): # for simulation
 
 def evaluate_signal_from_df(df: pd.DataFrame):
     """
-    Calculates buy/sell signal from an OHLCV dataframe.
+    Calculates buy/sell signal from a dataframe.
     Assumes 'Close', 'High', 'Low', 'Volume' columns exist.
     """
     if df.shape[0] < 60:

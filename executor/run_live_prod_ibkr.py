@@ -8,7 +8,7 @@ from pathlib import Path
 import time
 
 # === Settings ===
-WATCHLIST = ['QQQM', 'VOO', 'IAU', 'IEFA', 'VWO', 'BOTZ', 'ROBO', 'XLE', 'VGK', 'EWJ', 'IJH', 'XLV', 'XLU']
+WATCHLIST = ['QQQM', 'VOO', 'IAU', 'IEFA', 'VWO', 'BOTZ', 'ROBO', 'XLE', 'VGK', 'EWJ', 'IJH', 'XLV', 'XLU', 'CPNG', 'AAPL', 'TSLA']
 POSITION_PCT = 0.2
 MAX_POSITION_PCT = 0.4
 LIVE_MODE = True   # Toggle live trading on/off
@@ -24,6 +24,7 @@ LOGS_DIR.mkdir(exist_ok=True)
 ib = IB()
 ib.connect('127.0.0.1', 7497, clientId=103, timeout=10)  # Different clientId for live executor
 time.sleep(1)
+
 account_id = ib.managedAccounts()[0]
 
 # === Logging Function ===
